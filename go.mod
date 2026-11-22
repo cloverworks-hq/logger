@@ -1,4 +1,4 @@
-module github.com/Sanmo-Labs/logger
+module github.com/cloverworks-hq/logger
 
 go 1.26.2
 
